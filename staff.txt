@@ -1,8 +1,8 @@
-cberthier
-sconnor
-jmacclane
 afoley
-mriggs
-jwest
-sholmes
+cberthier
+jmacclane
 jrouletabille
+jwest
+mriggs
+sconnor
+sholmes
